@@ -38,3 +38,7 @@ images used--![uas1](https://user-images.githubusercontent.com/121255271/2093454
 
 final result---
 <img width="741" alt="image" src="https://user-images.githubusercontent.com/121255271/209345488-f1175237-c246-4a64-8c7f-9c44be9167ae.png">
+
+
+some errors--python is case sensitive use for eg. cv2.waitKey and not cv2.waitkey
+
