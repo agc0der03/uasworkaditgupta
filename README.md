@@ -1,3 +1,11 @@
+force adding images didnt work
+<img width="592" alt="image" src="https://user-images.githubusercontent.com/121255271/209346713-560512b9-81e7-4683-8e07-e3629d965167.png">
+ so used stitch method
+ 
+
+
+
+
 # uasworkaditgupta
 started stitching images by creating a stitcher object using open cv
 image_paths=["/Users/aditgupta03/Downloads/uas1.jpg","/Users/aditgupta03/Downloads/uas2.jpg","/Users/aditgupta03/Downloads/uas3.jpg","/Users/aditgupta03/Downloads/uas4.jpg","/Users/aditgupta03/Downloads/uas5.jpg"]
